@@ -2,7 +2,7 @@
 
 At **CLOVI.IO**, we don't just imagine a better future – we _create_ it. We are pioneers, thinkers, and innovators, harnessing the power of blockchain technology to build a world that's not just sustainable, but thriving. 🌳💻
 
-Our project, situated at the exciting intersection of technology and sustainability, aims to revolutionize our approach to food production and economic equality. Central to our vision is the _Organic Hub King of Complexe BioAlimentaire Durable_, a groundbreaking initiative that champions sustainable and organic food production and distribution. This isn't just about food; it's about reshaping our relationship with our planet, transforming how we cultivate our resources, and fostering a healthier, more ethical way of life. 🌾🍎
+Our project, situated at the exciting intersection of technology and sustainability, aims to revolutionize our approach to food production and economic equality. Central to our vision is the _Organic Hub King of Complexe BioAlimentaire Durable_, a groundbreaking initiative that champions sustainable and organic food production and distribution. This isn't just about food; it's about reshaping our relationship with our planets, transforming how we cultivate our resources, and fostering a healthier, more ethical way of life. 🌾🍎
 
 But our vision extends beyond the dinner table. We believe in economic fairness and the power of universal basic income. By leveraging the Solana blockchain, we've developed _Crypto CLO_, a cryptocurrency with a purpose. This isn't just about creating a new form of currency; it's about dismantling economic barriers and ensuring that everyone has a fair shot at financial stability. 💰💸
 
